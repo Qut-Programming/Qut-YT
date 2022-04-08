@@ -1,0 +1,9 @@
+sleep "2000"
+add "60"\"5"
+print !before
+sub !before\"16"
+print !before
+mul !before\"5"
+print !before
+pow !before\"2"
+print !before
