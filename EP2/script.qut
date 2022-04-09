@@ -1,0 +1,15 @@
+ask "Put a random number here:"
+set variable\!before
+ask "Put another random number here:"
+set test\!before
+add variable\test
+print !before
+sub !before\test
+print !before
+mul !before\test
+print !before
+pow !before\test
+print !before
+add !before\"1"
+mod !before\variable
+print !before
